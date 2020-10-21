@@ -91,10 +91,6 @@ Your School
 
 [Your Name](GitHub Link)
 
-### Email ID
-
-- YOURNAME@xyz.com
-
 ### Favorite Meme
 
 - it should be in jpg or png format.
