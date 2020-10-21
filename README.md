@@ -91,10 +91,6 @@ Your School
 
 [Your Name](GitHub Link)
 
-### Favorite Meme
-
-- it should be in jpg or png format.
-
 ```
 
 Don't forget to include the comments as seen above.
